@@ -1,0 +1,10 @@
+astral
+catboost
+kagglehub
+matplotlib
+meteostat
+numpy
+pandas
+pytz
+scikit-learn
+xgboost
