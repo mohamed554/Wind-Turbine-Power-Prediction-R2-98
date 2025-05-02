@@ -45,4 +45,4 @@ jupyter notebook wind-turbine-power-prediction-r-98-19.ipynb
 
 ## License
 
-MIT © Your Name
+MIT Commons Clause © mohamed554
